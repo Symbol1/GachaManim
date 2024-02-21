@@ -9,7 +9,9 @@ In order to compile, you need to download
 [Noto Emoji](https://github.com/googlefonts/noto-emoji)
 to your working folder.
 Make sure that
-`noto-emoji-main/png/512/emoji_u????.png`
+
+    noto-emoji-main/png/512/emoji_u????.png`
+
 does point to actual pictures.
 
 In order to compile, you also need make sure that these figures exist
@@ -31,3 +33,18 @@ In order to compile, you also need make sure that these figures exist
 I use Manim in a Jupyter notebook to generate
 static image slides and video slides.
 I then import them into a Keynote file.
+
+The reason to put video in a Keynote/Powerpoint file
+(instead of chaining them into a single video)
+is because audiences might ask questions,
+and it is easier to control timing this way.
+
+
+You see three files
+
+* `GachaManim-25.key`
+* `GachaManim-26.key`
+* `GachaManim-27.key`
+  
+here because GitHub has a 25MB file size limit.
+
