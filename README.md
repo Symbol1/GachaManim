@@ -5,16 +5,19 @@ This is a presentation based on
 
 ## The Jupyter notebook
 
-In order to compile, you need to download
+In order to compile, you need to install fonts
+* `Noto Sans Light`
+* `Noto Sans Display`
+
+In order to compile, you also need to download
 [Noto Emoji](https://github.com/googlefonts/noto-emoji)
-to your working folder.
-Make sure that
+to your working folder such that
 
     noto-emoji-main/png/512/emoji_u????.png`
 
 does point to actual pictures.
 
-In order to compile, you also need make sure that these figures exist
+You also need make sure that these pictures exist
 (and are in the correct folders).
 * `gacha.jpg`
 * `papers/BCS21.png`
