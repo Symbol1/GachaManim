@@ -1,5 +1,8 @@
 # Gacha Manim
 
+This is a presentation based on
+<https://arxiv.org/abs/2311.08283>
+
 ## The Jupyter notebook
 
 In order to compile, you need to download
