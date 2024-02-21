@@ -1,6 +1,10 @@
-# Gacha Manim
+# Group Testing via Stacked List Recoverable Codes
 
-This is a presentation based on
+Hsin-Po Wang (joint with Venkatesan Guruswami)
+        
+This is a presentation based on  
+Venkatesan Guruswami and Hsin-Po Wang.  
+*Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding*.  
 <https://arxiv.org/abs/2311.08283>
 
 ## The Jupyter notebook
