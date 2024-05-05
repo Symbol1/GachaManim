@@ -2,10 +2,10 @@
 
 Hsin-Po Wang (joint with Venkatesan Guruswami)
         
-This is a presentation based on  
+This presentation is based on
 Venkatesan Guruswami and Hsin-Po Wang.  
-*Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding*.  
-<https://arxiv.org/abs/2311.08283>
+[Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding]
+(https://arxiv.org/abs/2311.08283).
 
 ## The Jupyter notebook
 
@@ -43,7 +43,6 @@ The reason to put video in a Keynote/Powerpoint file
 (instead of chaining them into a single video)
 is because audiences might ask questions,
 and it is easier to control timing this way.
-
 
 You see three files
 
