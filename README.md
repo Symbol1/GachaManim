@@ -53,15 +53,15 @@ here because GitHub has a 25MB file size limit.
 
 ## Preview
 
-![Manim output](media/A1_Welcome.mp4)
+https://github.com/Symbol1/GachaManim/raw/main/media/A1_Welcome.mp4
 
 ---
 
-![Manim output](media/B1_Rule.mp4)
+https://github.com/Symbol1/GachaManim/raw/main/media/B1_Rule.mp4
 
 ---
 
-![Manim output](media/B2_Examples.mp4)
+https://github.com/Symbol1/GachaManim/raw/main/media/B2_Examples.mp4
 
 ---
 
