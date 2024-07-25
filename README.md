@@ -53,10 +53,6 @@ here because GitHub has a 25MB file size limit.
 
 ## Preview
 
-![Manim output](media/C3_Pentagon.mp4)
-
----
-
 ![Manim output](media/A1_Welcome.mp4)
 
 ---
@@ -86,6 +82,10 @@ here because GitHub has a 25MB file size limit.
 ---
 
 ![Manim output](media/C2_Goal.mp4)
+
+---
+
+![Manim output](media/C3_Pentagon.mp4)
 
 ---
 
